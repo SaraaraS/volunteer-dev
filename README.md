@@ -9,7 +9,8 @@ A list of resources needing volunteers
     - Computer Mentors - https://computermentors.org/volunteer/
     - Mentorship / career dev / support - https://www.womenwhocode.com/
     - Volunteer matching - https://www.volunteermatch.org/
-  
+    - UN volunteer portal - https://www.onlinevolunteering.org/en
+    - Mentoring / tech training - https://coderdojo.com/
 - California 
   - List of california Volunteer Centers - https://www.californiavolunteers.ca.gov/get-involved/volunteer-centers/
   - Los Angeles 
@@ -26,4 +27,10 @@ A list of resources needing volunteers
 - New York
   - NYC 
     - Civic Hacking - https://beta.nyc/
+
+
+
+Other - If an orginization you are interested in doesn't have a listed need for specially skilled volunteers (ie software engineers), it never hurts to reach out and see what you can do to become more involved.
+
+
 
