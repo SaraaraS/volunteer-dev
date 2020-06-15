@@ -11,6 +11,9 @@ A list of resources needing volunteers
     - Volunteer matching - https://www.volunteermatch.org/
     - UN volunteer portal - https://www.onlinevolunteering.org/en
     - Mentoring / tech training - https://coderdojo.com/
+    - Instruction - https://www.blackgirlscode.com/
+    - Instruction/Hosting - https://girlswhocode.com/
+    - Instruction/Skill Share - https://campaignwith.com/
 - California 
   - List of california Volunteer Centers - https://www.californiavolunteers.ca.gov/get-involved/volunteer-centers/
   - Los Angeles 
