@@ -27,6 +27,7 @@ A list of resources needing volunteers
     - Tech training - https://www.hackthehood.org/volunteer.html
     - Civic Hacking - https://codeforsanfrancisco.org/
     - Teaching / Mentoring / Other - https://techtonica.org/volunteer/
+    - Skill Sharing - https://www.codetenderloin.org/volunteers
 
 - New York
   - NYC 
