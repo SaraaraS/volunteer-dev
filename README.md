@@ -32,7 +32,7 @@ A list of organizations that need volunteers
         - [Hack for LA](https://www.hackforla.org)
      -
         #### Tutoring
-        - [Homeby Industries](https://homeboyindustries.org/get-involved/volunteer)
+        - [Homeboy Industries](https://homeboyindustries.org/get-involved/volunteer)
         - [Midnight Mission](https://www.midnightmission.org/get-involved/volunteer)
         - [Downtown Women's Center](https://downtownwomenscenter.org/volunteer)
         - [Let's Volunteer LA](https://letsvolunteerla.org/listing-item/grass-roots-neighbors/?way_to_help=796305)
