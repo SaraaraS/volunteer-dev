@@ -26,7 +26,7 @@ A list of organizations that need volunteers
 
 - [California Volunteer Centers](https://www.californiavolunteers.ca.gov/get-involved/volunteer-centers)
     
-    ### Los Angeles
+    ### LOS ANGELES
     -
         #### Civic Hacking
         - [Hack for LA](https://www.hackforla.org)
@@ -37,7 +37,7 @@ A list of organizations that need volunteers
         - [Downtown Women's Center](https://downtownwomenscenter.org/volunteer)
         - [Let's Volunteer LA](https://letsvolunteerla.org/listing-item/grass-roots-neighbors/?way_to_help=796305)
 
-    ### Bay Area
+    ### SAN FRANCISCO BAY AREA
     -
         #### Civic Hacking
         - [Code for San Francisco](https://codeforsanfrancisco.org)
@@ -54,14 +54,14 @@ A list of organizations that need volunteers
 
 ## New York
 - 
-    ### NYC
+    ### NEW YORK CITY
     -
         #### Civic Hacking
         - [Beta](https://beta.nyc/)
 
 ## Washington
 -
-  ### Seattle
+  ### SEATTLE
   - [Ada Developers Academy](https://adadevelopersacademy.org/volunteer)
 
 ## Other
