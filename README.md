@@ -26,10 +26,15 @@ A list of resources needing volunteers
   - Bay Area 
     - Tech training - https://www.hackthehood.org/volunteer.html
     - Civic Hacking - https://codeforsanfrancisco.org/
+    - Teaching / Mentoring / Other - https://techtonica.org/volunteer/
 
 - New York
   - NYC 
     - Civic Hacking - https://beta.nyc/
+
+- Washington
+  - Seattle
+    - Teaching / Mentoring / other - https://adadevelopersacademy.org/volunteer/
 
 
 
