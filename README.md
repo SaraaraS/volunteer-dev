@@ -14,6 +14,7 @@ A list of resources needing volunteers
     - Instruction - https://www.blackgirlscode.com/
     - Instruction/Hosting - https://girlswhocode.com/
     - Instruction/Skill Share - https://campaignwith.com/
+    - Your Local Library - Likely to need people to teach workshops, mentor, help
 - California 
   - List of california Volunteer Centers - https://www.californiavolunteers.ca.gov/get-involved/volunteer-centers/
   - Los Angeles 
@@ -28,6 +29,7 @@ A list of resources needing volunteers
     - Civic Hacking - https://codeforsanfrancisco.org/
     - Teaching / Mentoring / Other - https://techtonica.org/volunteer/
     - Skill Sharing - https://www.codetenderloin.org/volunteers
+    - Lab staffing - https://sfpl.org/volunteer
 
 - New York
   - NYC 
