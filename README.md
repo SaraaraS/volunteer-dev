@@ -16,6 +16,7 @@ A list of organizations that need volunteers
     - [Computer Mentors](https://computermentors.org/volunteer)
     - [Women Who Code](https://www.womenwhocode.com)
     - [Coder Dojo](https://coderdojo.com)
+    - [CodeBar] (https://codebar.io/)
 
     ### Instruction
     - [Code.org](https://code.org/volunteer)
